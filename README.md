@@ -4,7 +4,7 @@ Installation
 
 ```
 git clone https://github.com/MaI0SerfI3unny/tz-dev-it-group.git
-cd tz-dev-it-group/tzDevItGroup
+cd tz-dev-it-group
 docker-compose up
 ```
 
